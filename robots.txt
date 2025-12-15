@@ -1,1 +1,1 @@
-Sitemap: https://gstockler.github.io/gstockler-quarto-preview/sitemap.xml
+Sitemap: https://gstockler.github.io/sitemap.xml

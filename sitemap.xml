@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gstockler.github.io/gstockler-quarto-preview/about.html</loc>
-    <lastmod>2025-12-13T10:37:55.100Z</lastmod>
+    <loc>https://gstockler.github.io/research.html</loc>
+    <lastmod>2025-12-15T07:36:57.576Z</lastmod>
   </url>
   <url>
-    <loc>https://gstockler.github.io/gstockler-quarto-preview/index.html</loc>
-    <lastmod>2025-12-13T10:37:55.100Z</lastmod>
+    <loc>https://gstockler.github.io/cv.html</loc>
+    <lastmod>2025-12-15T07:36:57.546Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gstockler.github.io/contact.html</loc>
+    <lastmod>2025-12-15T07:36:57.546Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gstockler.github.io/index.html</loc>
+    <lastmod>2025-12-15T07:36:57.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gstockler.github.io/teaching.html</loc>
+    <lastmod>2025-12-15T07:36:57.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gstockler.github.io/about.html</loc>
+    <lastmod>2025-12-15T07:36:57.545Z</lastmod>
   </url>
 </urlset>
